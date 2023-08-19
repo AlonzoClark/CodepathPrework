@@ -28,7 +28,7 @@ Some ideas to improve the app are:
 - Feel free to play around with other elements, such as image views, text fields, etc.
 - Implement a way to change the color of the text as well
 
-## App Brainstorming (Step 4)
+## App Brainstorming 
 
 Instagram
 - Changing the background color of the messages screen
